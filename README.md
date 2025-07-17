@@ -97,4 +97,5 @@ Responsable del desarrollo de la interfaz de Administrador de Trobbu, creando un
 
 ## Contact:
 
-[![Email](https://img.shields.io/badge/xbox-eddy2012@hotmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:xbox-eddy2012@hotmail.com)
+[![Email](https://img.shields.io/badge/eddylolpro@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:xbox-eddy2012@hotmail.com)
+
